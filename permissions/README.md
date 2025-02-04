@@ -1,1 +1,1 @@
-This script sets the permissions of the file hello to owner: no permissions, group: no permissions, other users: all permissions.
+This script sets the file permissions of hello to rwx for owner, r-x for group, and -wx for other users.
